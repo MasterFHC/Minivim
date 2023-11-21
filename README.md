@@ -52,9 +52,12 @@ another way of line wrapping **80pts + 10pts**(scrolling)
 ## [Command Line Features]
 
 - `minivim [-t] [-R] [-W scroll/break] <filename>`
+
 	`-t` - open file in truncation mode
-	`-R` - open file in read-only mode where editing is forbidden
-	`-W` - choose line wrapping mode, break is the default mode
+	
+ 	`-R` - open file in read-only mode where editing is forbidden
+	
+ 	`-W` - choose line wrapping mode, break is the default mode
 - path and relative path is supported !!
 
 ## [Command Mode Features]
