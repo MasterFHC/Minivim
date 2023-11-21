@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/command.h
+string
+-
+list
+-
+
+../include/editor.h
+vector
+-
+
+../include/essentials.h
+ncurses.h
+-
+string.h
+-
+editor.h
+-
+command.h
+-
+fstream
+-
+
+/mnt/d/minivim/src/main.cpp
+ncurses.h
+-
+string
+-
+essentials.h
+-
+
