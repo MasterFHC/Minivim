@@ -1,35 +1,45 @@
 ﻿## [Project Log]
 **2023/11/11** 
 read github guidelines
+
 **2023/11/12** 
 read ncurses files
-basic user interface 10
+basic user interface **10pts**
+
 **2023/11/13**
  insert mode start: display
+ 
 **2023/11/14**
  insert mode cont'd: arrow keys
+ 
 **2023/11/15**
  insert mode almost complete
-line numbers(2 versions) 35
+line numbers(2 versions) **35pts**
+
 **2023/11/16**
  preparing for English exam
+ 
 **2023/11/17**
  touch fish
+ 
 **2023/11/18**
- path+relative path 40
+ path+relative path **40pts**
 command mode basics
+
 **2023/11/19** 
-file persistence 50
-command mode 55
-command history 60
-command line arguments 65
+file persistence **50pts**
+command mode **55pts**
+command history **60pts**
+command line arguments **65pts**
+
 **2023/11/20** 
 normal mode
-line number and jump 70
-shortcut key 75
+line number and jump **70pts**
+shortcut key **75pts**
+
 **2023/11/21** 
-search and subsitution 80
-another way of line wrapping 80 + 10(scrolling)
+search and subsitution **80pts**
+another way of line wrapping **80pts + 10pts**(scrolling)
 
 ## [Normal Mode Features]
 
